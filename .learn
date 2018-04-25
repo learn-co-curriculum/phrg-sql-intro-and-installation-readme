@@ -6,3 +6,4 @@ resources:
   - 3
 languages: 
   - SQLite3
+parent_template: git@github.com:learn-co-curriculum/sql-intro-and-installation-readme.git

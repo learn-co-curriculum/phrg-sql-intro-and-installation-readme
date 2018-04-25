@@ -91,3 +91,4 @@ You should have created a test_sqlite.db file. Either open up the directory you 
 
 
 <a href='https://learn.co/lessons/sql-intro-and-installation-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>PHRG Intro to SQL</p>
