@@ -89,6 +89,9 @@ You should have created a test_sqlite.db file. Either open up the directory you 
 - [Homebrew](http://mxcl.github.com/homebrew/)
 - [ZetCode sqlite3](http://zetcode.com/db/sqlite/)
 
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-sql-intro-and-installation-readme/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-sql-intro-and-installation-readme/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
 
 <a href='https://learn.co/lessons/sql-intro-and-installation-readme' data-visibility='hidden'>View this lesson on Learn.co</a>
 <p data-visibility='hidden'>PHRG Intro to SQL</p>
